@@ -2,7 +2,6 @@
 
 > A beautiful, lightweight Steam game launcher that lives on your Windows desktop.
 
-![SteamWidget Preview](preview.png)
 
 ---
 
@@ -56,25 +55,6 @@ Just double-click `SteamWidget.exe`. That's it.
 
 ---
 
-## 💻 Building from Source
-
-**Requirements:** [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-
-```powershell
-# Clone the repo
-git clone https://github.com/YourUsername/SteamWidget.git
-cd SteamWidget
-
-# Build and run
-dotnet build
-dotnet run
-
-# Publish as a single self-contained EXE
-dotnet publish -c Release
-# Output: bin\Release\net8.0-windows\win-x64\publish\SteamWidget.exe
-```
-
----
 
 ## 📁 Data & Privacy
 
