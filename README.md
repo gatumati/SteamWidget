@@ -3,6 +3,8 @@
 > A beautiful, lightweight Steam game launcher that lives on your Windows desktop.
 
 
+![SteamWidget Preview](preview.png)
+
 ---
 
 ## ✨ Features
