@@ -24,7 +24,7 @@
 
 | Main View | Favourites | Search |
 |-----------|------------|--------|
-| ![main](main.png) | ![favs](screenshots/favourites.png) | ![search](screenshots/search.png) |
+| ![main](main.png) | ![favs](favourites.png) | ![search](search.png) |
 
 ---
 
